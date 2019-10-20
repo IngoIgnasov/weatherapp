@@ -1,0 +1,186 @@
+<forecasts>
+    <forecast date="2019-10-20">
+        <night>
+            <phenomenon>Cloudy with clear spells</phenomenon>
+            <tempmin>4</tempmin>
+            <tempmax>11</tempmax>
+            <text>
+                Cloudy with bright spells and mainly dry, but fog in many places. At first southwest wind 4-10, on coast in gusts up to 13 m/s, after midnight southerly wind 2-7 m/s. Air temperature 4..8, on coast up to 11°C.
+            </text>
+            <place>
+                <name>Harku</name>
+                <phenomenon>Cloudy with clear spells</phenomenon>
+                <tempmin>7</tempmin>
+            </place>
+            <place>
+                <name>Jõhvi</name>
+                <phenomenon>Cloudy with clear spells</phenomenon>
+                <tempmin>6</tempmin>
+            </place>
+            <place>
+                <name>Tartu</name>
+                <phenomenon>Cloudy with clear spells</phenomenon>
+                <tempmin>5</tempmin>
+            </place>
+            <place>
+                <name>Pärnu</name>
+                <phenomenon>Cloudy with clear spells</phenomenon>
+                <tempmin>7</tempmin>
+            </place>
+            <place>
+                <name>Kuressaare</name>
+                <phenomenon>Cloudy with clear spells</phenomenon>
+                <tempmin>9</tempmin>
+            </place>
+            <place>
+                <name>Türi</name>
+                <phenomenon>Few clouds</phenomenon>
+                <tempmin>5</tempmin>
+            </place>
+            <wind>
+                <name>Kuusiku</name>
+                <direction>Southwest wind</direction>
+                <speedmin>2</speedmin>
+                <speedmax>5</speedmax>
+                <gust/>
+            </wind>
+            <wind>
+                <name>Väike-Maarja</name>
+                <direction>Southwest wind</direction>
+                <speedmin>3</speedmin>
+                <speedmax>6</speedmax>
+                <gust/>
+            </wind>
+            <wind>
+                <name>Võrtsjärv</name>
+                <direction>Southerly winds</direction>
+                <speedmin>2</speedmin>
+                <speedmax>5</speedmax>
+                <gust/>
+            </wind>
+            <sea>
+                Forecast for Baltic Sea valid 24 hours from 19:00 Oct 19 to 19:00 UTC Oct 20, 2019. Weather summary: area of Low over Baltic Sea. Warnings to Northern Baltic, Gulf of Finland: south, southwest in gusts 15 m/s. Wave height 1 to 2 m. Northern Baltic, Gulf of Finland: southwest, south wind 5 to 11, at first in gusts to 14 m/s, after midnight decreasing, by day southerly wind 3 to 8 m/s. At night mainly dry, in morning area of rain is spreading from sea along the Gulf of Finland eastward. Visibility moderate, at night and morning locally fog possible. Moonsund, Northern Gulf of Riga: at night southwest, south wind 4 to 10, by day southerly wind 3 to 8 m/s. At night mainly dry, in morning area of rain is spreading to the bays in afternoon. Visibility moderate, at night and morning locally fog possible.
+            </sea>
+            <peipsi>
+                Southwest, south wind 3-8 m/s. Wave height 0,3-0,8 m. Mainly dry, but fog in many places. Visibility moderate or poor. Air temperature 7..9°C.
+            </peipsi>
+        </night>
+        <day>
+            <phenomenon>Moderate rain</phenomenon>
+            <tempmin>9</tempmin>
+            <tempmax>14</tempmax>
+            <text>
+                Mainly cloudy. In forenoon locally drizzle and fog, in afternoon rain in many places. Southeast, south wind 2-8 m/s, in evening veering in western part to southwest. Air temperature 9..14°C.
+            </text>
+            <place>
+                <name>Harku</name>
+                <phenomenon>Moderate rain</phenomenon>
+                <tempmax>11</tempmax>
+            </place>
+            <place>
+                <name>Jõhvi</name>
+                <phenomenon>Moderate rain</phenomenon>
+                <tempmax>10</tempmax>
+            </place>
+            <place>
+                <name>Tartu</name>
+                <phenomenon>Light shower</phenomenon>
+                <tempmax>13</tempmax>
+            </place>
+            <place>
+                <name>Pärnu</name>
+                <phenomenon>Moderate rain</phenomenon>
+                <tempmax>13</tempmax>
+            </place>
+            <place>
+                <name>Kuressaare</name>
+                <phenomenon>Light rain</phenomenon>
+                <tempmax>12</tempmax>
+            </place>
+            <place>
+                <name>Türi</name>
+                <phenomenon>Moderate rain</phenomenon>
+                <tempmax>12</tempmax>
+            </place>
+            <wind>
+                <name>Kuusiku</name>
+                <direction>South wind</direction>
+                <speedmin>2</speedmin>
+                <speedmax>5</speedmax>
+                <gust/>
+            </wind>
+            <wind>
+                <name>Väike-Maarja</name>
+                <direction>Southeast wind</direction>
+                <speedmin>2</speedmin>
+                <speedmax>5</speedmax>
+                <gust/>
+            </wind>
+            <wind>
+                <name>Võrtsjärv</name>
+                <direction>South wind</direction>
+                <speedmin>2</speedmin>
+                <speedmax>6</speedmax>
+                <gust/>
+            </wind>
+            <sea/>
+            <peipsi>
+                Southeast, south wind 3-8 m/s. Wave height 0,3-0,8 m. In evening rain. Visibility moderate or good, in morning in fog poor. Air temperature 10..12°C.
+            </peipsi>
+        </day>
+    </forecast>
+    <forecast date="2019-10-21">
+        <night>
+            <phenomenon>Moderate rain</phenomenon>
+            <tempmin>6</tempmin>
+            <tempmax>11</tempmax>
+            <text>
+                Cloudy and rainy. Rain is gradually dying out from northwest after midnight. Fog in places. Wind around south 3-8, on northern coast in gusts 13 m/s, by morning veering west, northwest. Air temperature 6..11°C.
+            </text>
+        </night>
+        <day>
+            <phenomenon>Light shower</phenomenon>
+            <tempmin>8</tempmin>
+            <tempmax>12</tempmax>
+            <text>
+                Cloudy with clear spells. Showers before noon, afternoon mostly dry. West, northwest wind 2-7 m/s, becoming variable in the afternoon. Air temperature 8..12°C, falling in afternoon.
+            </text>
+        </day>
+    </forecast>
+    <forecast date="2019-10-22">
+        <night>
+            <phenomenon>Cloudy with clear spells</phenomenon>
+            <tempmin>0</tempmin>
+            <tempmax>7</tempmax>
+            <text>
+                Cloudy with clear spells. Light rain possible in places. Variable wind 2-7 m/s, becoming south, southwest by morning and increasing on coast 5-10 m/s. Air temperature 2..7°C, inland falling down to 0°C during longer clearings.
+            </text>
+        </night>
+        <day>
+            <phenomenon>Cloudy with clear spells</phenomenon>
+            <tempmin>8</tempmin>
+            <tempmax>12</tempmax>
+            <text>
+                Cloudy with bright spells. Locally showers possible. Southwest wind 5-10, on coast in gusts 14, in evening up to 17 m/s. Air temperature 8..12°C.
+            </text>
+        </day>
+    </forecast>
+    <forecast date="2019-10-23">
+        <night>
+            <phenomenon>Cloudy with clear spells</phenomenon>
+            <tempmin>6</tempmin>
+            <tempmax>11</tempmax>
+            <text>
+                Cloudy with clear spells and mostly dry. Southwest wind 6-11, on coast in gusts 15 m/s. Air temperatuure 6..11°C.
+            </text>
+        </night>
+        <day>
+            <phenomenon>Light shower</phenomenon>
+            <tempmin>8</tempmin>
+            <tempmax>12</tempmax>
+            <text>
+                Cloudy with bright spells. Locally light rain. Southwest wind 6-11, on coast in gusts 15 m/s. Air temperatuure 8..12°C.
+            </text>
+        </day>
+    </forecast>
+</forecasts>

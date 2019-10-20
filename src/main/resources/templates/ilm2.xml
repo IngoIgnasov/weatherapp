@@ -1,0 +1,52 @@
+<day>
+    <phenomenon>Moderate rain</phenomenon>
+    <tempmin>9</tempmin>
+    <tempmax>14</tempmax>
+    <text>
+        Mainly cloudy. In forenoon locally drizzle and fog, in afternoon rain in many places. Southeast, south wind 2-8 m/s, in evening veering in western part to southwest. Air temperature 9..14°C.
+    </text>
+    <place>
+        <name>Harku</name>
+        <phenomenon>Moderate rain</phenomenon>
+        <tempmax>11</tempmax>
+    </place>
+    <place>
+        <name>Jõhvi</name>
+        <phenomenon>Moderate rain</phenomenon>
+        <tempmax>10</tempmax>
+    </place>
+    <place>
+        <name>Tartu</name>
+        <phenomenon>Light shower</phenomenon>
+        <tempmax>13</tempmax>
+    </place>
+    <place>
+        <name>Pärnu</name>
+        <phenomenon>Moderate rain</phenomenon>
+        <tempmax>13</tempmax>
+    </place>
+    <place>
+        <name>Kuressaare</name>
+        <phenomenon>Light rain</phenomenon>
+        <tempmax>12</tempmax>
+    </place>
+    <place>
+        <name>Türi</name>
+        <phenomenon>Moderate rain</phenomenon>
+        <tempmax>12</tempmax>
+    </place>
+    <wind>
+        <name>Kuusiku</name>
+        <direction>South wind</direction>
+        <speedmin>2</speedmin>
+        <speedmax>5</speedmax>
+        <gust/>
+    </wind>
+    <wind>
+        <name>Väike-Maarja</name>
+        <direction>Southeast wind</direction>
+        <speedmin>2</speedmin>
+        <speedmax>5</speedmax>
+        <gust/>
+    </wind>
+</day>

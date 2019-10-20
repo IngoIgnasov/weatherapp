@@ -1,0 +1,65 @@
+<night>
+    <phenomenon>Cloudy with clear spells</phenomenon>
+    <tempmin>4</tempmin>
+    <tempmax>11</tempmax>
+    <text>
+        Cloudy with bright spells and mainly dry, but fog in many places. At first southwest wind 4-10, on coast in gusts up to 13 m/s, after midnight southerly wind 2-7 m/s. Air temperature 4..8, on coast up to 11°C.
+    </text>
+    <place>
+        <name>Harku</name>
+        <phenomenon>Cloudy with clear spells</phenomenon>
+        <tempmin>7</tempmin>
+    </place>
+    <place>
+        <name>Jõhvi</name>
+        <phenomenon>Cloudy with clear spells</phenomenon>
+        <tempmin>6</tempmin>
+    </place>
+    <place>
+        <name>Tartu</name>
+        <phenomenon>Cloudy with clear spells</phenomenon>
+        <tempmin>5</tempmin>
+    </place>
+    <place>
+        <name>Pärnu</name>
+        <phenomenon>Cloudy with clear spells</phenomenon>
+        <tempmin>7</tempmin>
+    </place>
+    <place>
+        <name>Kuressaare</name>
+        <phenomenon>Cloudy with clear spells</phenomenon>
+        <tempmin>9</tempmin>
+    </place>
+    <place>
+        <name>Türi</name>
+        <phenomenon>Few clouds</phenomenon>
+        <tempmin>5</tempmin>
+    </place>
+    <wind>
+        <name>Kuusiku</name>
+        <direction>Southwest wind</direction>
+        <speedmin>2</speedmin>
+        <speedmax>5</speedmax>
+        <gust/>
+    </wind>
+    <wind>
+        <name>Väike-Maarja</name>
+        <direction>Southwest wind</direction>
+        <speedmin>3</speedmin>
+        <speedmax>6</speedmax>
+        <gust/>
+    </wind>
+    <wind>
+        <name>Võrtsjärv</name>
+        <direction>Southerly winds</direction>
+        <speedmin>2</speedmin>
+        <speedmax>5</speedmax>
+        <gust/>
+    </wind>
+    <sea>
+        Forecast for Baltic Sea valid 24 hours from 19:00 Oct 19 to 19:00 UTC Oct 20, 2019. Weather summary: area of Low over Baltic Sea. Warnings to Northern Baltic, Gulf of Finland: south, southwest in gusts 15 m/s. Wave height 1 to 2 m. Northern Baltic, Gulf of Finland: southwest, south wind 5 to 11, at first in gusts to 14 m/s, after midnight decreasing, by day southerly wind 3 to 8 m/s. At night mainly dry, in morning area of rain is spreading from sea along the Gulf of Finland eastward. Visibility moderate, at night and morning locally fog possible. Moonsund, Northern Gulf of Riga: at night southwest, south wind 4 to 10, by day southerly wind 3 to 8 m/s. At night mainly dry, in morning area of rain is spreading to the bays in afternoon. Visibility moderate, at night and morning locally fog possible.
+    </sea>
+    <peipsi>
+        Southwest, south wind 3-8 m/s. Wave height 0,3-0,8 m. Mainly dry, but fog in many places. Visibility moderate or poor. Air temperature 7..9°C.
+    </peipsi>
+</night>
