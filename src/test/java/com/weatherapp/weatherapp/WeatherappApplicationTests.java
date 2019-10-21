@@ -7,7 +7,10 @@ import org.springframework.boot.test.context.SpringBootTest;
 class WeatherappApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void getDateTest(){
+		String ans1 = "2019-10-20";
+		String ans2 = "2019-10-22";
+		//TODO finish tests...
 	}
 
 }

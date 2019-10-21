@@ -1,17 +1,20 @@
 package com.weatherapp.weatherapp;
 
 import com.weatherapp.weatherapp.models.*;
+import com.weatherapp.weatherapp.services.InputStreamService;
 
 import javax.xml.bind.JAXBContext;
-import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
 import javax.xml.bind.Unmarshaller;
 import java.io.File;
+import java.io.InputStream;
+import java.net.HttpURLConnection;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
 public class TestingForApp {
-    public static void main(String[] args) throws JAXBException {
+    public static void main(String[] args) throws Exception {
         Day night1 = new Day();
         night1.setPhenomenon("pilvine");
         night1.setTempmax("11");
@@ -69,5 +72,12 @@ public class TestingForApp {
         System.out.println(forecast.getWinds().get(0).getDirection());
         System.out.println(forecast.getSea());*/
         System.out.println(forecast.getForecasts().get(0).getDate());
+
+
+        InputStreamService sv = new InputStreamService();
+        InputStream is = sv.getWeatherAPIInputStream();
+
+        Forecasts forecasts2 = (Forecasts) jaxbUnmarshaller.unmarshal(is);
+        System.out.println(forecasts2.getForecasts().get(0).getDate());
     }
 }
